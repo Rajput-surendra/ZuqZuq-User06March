@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+wrteam/eshop/multivendor/eshop_multivendor/MainActivity.java
+ com.mytop10storeuser.user.MainActivity
+com/mytop10storeuser/user/BuildConfig.java
+ com.mytop10storeuser.user.BuildConfig
